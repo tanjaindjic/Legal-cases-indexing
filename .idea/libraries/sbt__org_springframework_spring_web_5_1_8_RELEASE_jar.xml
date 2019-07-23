@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.springframework:spring-web:5.1.8.RELEASE:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.springframework/spring-web/jars/spring-web-5.1.8.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.springframework/spring-web/srcs/spring-web-5.1.8.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

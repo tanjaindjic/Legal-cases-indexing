@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: javax.xml:jaxb-impl:2.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/javax.xml/jaxb-impl/jars/jaxb-impl-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
