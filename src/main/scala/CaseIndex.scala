@@ -10,7 +10,7 @@ object CaseIndex extends App {
 
   override def main(args: Array[String]): Unit={
 
-    val folder = new File(args(1)) //second argument is path to a directory containing xml case files
+    val folder = new File(args(0)) //first argument is path to a directory containing xml case files
     val listOfFiles = folder.listFiles()
     val i = 0
     var bulk = ""
